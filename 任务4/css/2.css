@@ -1,0 +1,31 @@
+body{
+	padding: 30px;
+	background: blanchedalmond;
+	border: solid 1px #eee;
+    }
+div{
+	padding: 20px;
+	background: palegoldenrod;
+	border: double;
+}
+#left{
+	width: 100px;
+	position: absolute;
+	top: 40px;
+	left: 15px;
+}
+#right{
+	width: 100px;
+	position: absolute;
+	top: 40px;
+	right: 15px;
+}
+#middle{
+	margin-right: 130px;
+	margin-left:130px;
+	top: 40px;
+}
+img{
+	width: 100px;
+	height: 100px;
+}
